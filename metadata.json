@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Camera",
+  "description": "Cross-platform Virtual Camera solution for Android and Windows PC with real Media Foundation driver and video streaming bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
